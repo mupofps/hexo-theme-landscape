@@ -76,6 +76,10 @@ widgets:
 google_analytics:
 favicon: /favicon.png
 twitter:
+
+# icon for Apple devices
+# apple_touch_icon: /touch-icon-iphone.png
+
 ```
 
 - **menu** - Navigation menu
@@ -88,6 +92,7 @@ twitter:
 - **widgets** - Widgets displaying in sidebar
 - **google_analytics** - Google Analytics ID
 - **favicon** - Favicon path
+- **apple_touch_icon** - Apple Webpage Icon path
 - **twitter** - Twitter ID
 
 ## Features
