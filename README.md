@@ -1,3 +1,5 @@
+This repository is unused now. I choose Hugo instead of Hexo.
+
 # Landscape
 
 [![NPM version](https://badge.fury.io/js/hexo-theme-landscape.svg)](https://www.npmjs.com/package/hexo-theme-landscape)
